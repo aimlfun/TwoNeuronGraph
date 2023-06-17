@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoNeuronGraph", "TwoNeuronGraph.csproj", "{1218CC28-C786-4267-A693-0DBC4420394A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1218CC28-C786-4267-A693-0DBC4420394A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1218CC28-C786-4267-A693-0DBC4420394A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1218CC28-C786-4267-A693-0DBC4420394A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1218CC28-C786-4267-A693-0DBC4420394A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8CE76A-D9F0-450F-B0A3-066EE6D39C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8CE76A-D9F0-450F-B0A3-066EE6D39C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8CE76A-D9F0-450F-B0A3-066EE6D39C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8CE76A-D9F0-450F-B0A3-066EE6D39C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1F133ED-D2CE-42C6-A067-AF1F348E689B}
+	EndGlobalSection
+EndGlobal
